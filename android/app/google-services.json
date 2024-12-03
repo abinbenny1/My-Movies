@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "70230650949",
+    "firebase_url": "https://moviecollectionapp-2a929-default-rtdb.firebaseio.com",
+    "project_id": "moviecollectionapp-2a929",
+    "storage_bucket": "moviecollectionapp-2a929.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70230650949:android:ad6b5a86285c796864f32c",
+        "android_client_info": {
+          "package_name": "com.example.moviecollectionappabin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAknHjew1rP2B5XKnsN-NLZD0HsfDBcn74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
